@@ -1,0 +1,119 @@
+{
+    "name": "Clockwork",
+    "description": "Clockwork is an Easy Text Message API. An SMS API for Developers. Build powerful apps and include SMS. Signup is free, Try it now.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1373-clockwork.jpg",
+    "tags": [
+        "api provider",
+        "bulk",
+        "global",
+        "have api",
+        "messages",
+        "relative data",
+        "service api",
+        "target",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/clockwork\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Clockwork SMS",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1373-clockwork.jpg",
+            "humanURL": "http:\/\/clockworksms.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/clockwork-sms.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/clockwork-sms-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.clockworksms.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.clockworksms.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.clockworksms.com\/feed\/"
+        },
+        {
+            "type": "Contact Form",
+            "url": "http:\/\/www.clockworksms.com\/support\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/clockwork"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.clockworksms.com\/doc\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/www.clockworksms.com\/doc\/easy-stuff\/http-interface\/send-sms\/"
+        },
+        {
+            "type": "Email",
+            "url": "441234567980@YOURAPIKEY.clockworksms.com"
+        },
+        {
+            "type": "Email",
+            "url": "hello@clockworksms.com"
+        },
+        {
+            "type": "FAQ",
+            "url": "http:\/\/www.clockworksms.com\/faqs\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.clockworksms.com\/pricing\/"
+        },
+        {
+            "type": "Registration",
+            "url": "https:\/\/app3.clockworksms.com\/signup"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "http:\/\/www.clockworksms.com\/terms-and-conditions\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ClockworkSMS"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/clockworksms.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.clockworksms.com"
+        },
+        {
+            "type": "Wordpress Plugin",
+            "url": "http:\/\/wordpress.org\/extend\/plugins\/contact-form-7-sms-addon\/"
+        },
+        {
+            "type": "Wordpress Plugin",
+            "url": "http:\/\/wordpress.org\/extend\/plugins\/booking-sms\/"
+        },
+        {
+            "type": "Zendesk",
+            "url": "http:\/\/www.clockworksms.com\/blog\/sending-sms-from-zendesk\/"
+        }
+    ]
+}
