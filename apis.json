@@ -13,8 +13,8 @@
         "target",
         "telecommunications"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-20",
+    "modified": "2019-12-20",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/clockwork\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -32,13 +32,17 @@
                 },
                 {
                     "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/clockwork-sms-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/clockwork\/master\/clockwork-sms-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Base",
             "url": "http:\/\/api.clockworksms.com"
